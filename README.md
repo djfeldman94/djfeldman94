@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, I'm Dylan! 👋 Here's a little bit about me:
 
-<!--
-**djfeldman94/djfeldman94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a seasoned code-whisperer looking to bring my 'get-it-done-itude' to a team of like-minded individuals.
+I'm a full-stack developer with a specialty and passion for Android development. I'm independent, self-motivated, and a quick learner.
 
-Here are some ideas to get you started:
+## Works in Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project                                                                                     | Description                                                        |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| [MobyMixer](https://github.com/djfeldman94/Moby-Mixer)                                      | Android-based client with ASP.NET server to manage PC audio levels |
+| [BoogieBot](https://github.com/djfeldman94/BoogieBot)                                       | Python-based discord bot with AI integration                       |
+| [PaddlePal](https://play.google.com/store/apps/details?id=com.djf.paddlepal&hl=en_US&gl=US) | Android app to find, record, and share paddle trips                |
+
+
