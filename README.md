@@ -6,8 +6,7 @@ I'm a full-stack developer with a specialty and passion for Android development.
 ## Works in Progress
 
 | Project                                                                                     | Description                                                          |
-|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------
-|
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | [MetroMinder](https://github.com/djfeldman94/metro-minder-multiplatform)                    | Kotlin/Compose Multiplatform app with widget to give train reminders | 
 | [MobyMixer](https://github.com/djfeldman94/Moby-Mixer)                                      | Android-based client with ASP.NET server to manage PC audio levels   |
 | [BoogieBot](https://github.com/djfeldman94/BoogieBot)                                       | Python-based discord bot with AI integration                         |
