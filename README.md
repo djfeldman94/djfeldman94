@@ -8,8 +8,7 @@ I'm a full-stack developer with a specialty and passion for Android development.
 | Project                                                                                     | Description                                                        |
 |---------------------------------------------------------------------------------------------|--------------------------------------------------------------------
 |
-| [MetroMinder](https://github.com/djfeldman94/metro-minder-multiplatform)                    | Kotlin/Compose Multiplatform app with widget to give train reminders 
-|
+| [MetroMinder](https://github.com/djfeldman94/metro-minder-multiplatform)                    | Kotlin/Compose Multiplatform app with widget to give train reminders | 
 | [MobyMixer](https://github.com/djfeldman94/Moby-Mixer)                                      | Android-based client with ASP.NET server to manage PC audio levels |
 | [BoogieBot](https://github.com/djfeldman94/BoogieBot)                                       | Python-based discord bot with AI integration                       |
 | [PaddlePal](https://play.google.com/store/apps/details?id=com.djf.paddlepal&hl=en_US&gl=US) | Android app to find, record, and share paddle trips                |
